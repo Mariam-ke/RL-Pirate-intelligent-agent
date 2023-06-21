@@ -1,2 +1,13 @@
-# RL-Pirate-intelligent-agent
-RL Project pirate intelligent agent
+### Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+I created a treasure hunt game using the deep Q-learning algorithm. The objective was to find the optimal sequence of actions for the agent, who played as the pirate, in order to maximize the reward. The provided code included the game environment represented as a matrix, along with functions for key game functionalities such as resetting the pirate's position, updating states, calculating rewards, and tracking actions. Additionally, the code incorporates an "Experience for Replay" implementation, which enabled the storage of episodes for the agent to learn from past experiences. Furthermore, there is a complete implementation code in a Jupyter notebook that builds a neural network model to assess the agent's ability to win games.
+
+### What do computer scientists do and why does it matter?
+Computer scientists play a crucial role in developing computational systems and algorithms to solve complex problems. Their work involves designing, implementing, and optimizing software and hardware solutions. They contribute to a wide range of fields, including artificial intelligence, data science, cybersecurity, and software engineering.
+
+The work of computer scientists matters because it enables technological advancements and innovation. They create solutions that address societal challenges, improve efficiency, and enhance various aspects of our lives.
+
+### How do I approach a problem as a computer scientist?
+As a computer scientist, I approach problem by implementing systematic and logical processes to come up with a solution. I begin with a thorough understanding of the problem, including its requirements and constraints then I break the problem down into smaller, more manageable subproblems, after that I design a solution by creating algorithms or architectural plans that address the problem effectively and efficiently and finally I Implement the solution through coding and rigorous testing to ensure its correctness and ability to handle various scenarios.
+
+### What are my ethical responsibilities to the end user and the organization?
+As a computer scientist, my ethical responsibilities to end users and organizations encompass several important aspects. These include safeguarding user privacy and data protection, ensuring the security of systems and information, being transparent and accountable in how data is used, striving to mitigate bias and promote fairness in algorithms and systems, considering user well-being in technology design, and maintaining professional conduct and integrity. By upholding these ethical responsibilities, I contribute to the development and use of technology that respects user rights, promotes trust, and positively impacts individuals and organizations.
